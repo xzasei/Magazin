@@ -315,7 +315,7 @@ int main()
 						std::cout << "Лукового - " << lyk << " штук\n";
 						if (lyk <= 3)
 						{
-							lykm = lyk * 150;
+						lykm = lyk * 150;
 						}
 						std::cout << "Стоимость всего: " << lykm << "\n";
 					}
